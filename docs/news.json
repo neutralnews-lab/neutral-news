@@ -1,122 +1,122 @@
 {
   "topics": [
     {
-      "topic": "定年延長",
-      "category": "仕事",
-      "articles": [
-        {
-          "title": "年齢で可能性を狭めない。塩野義製薬が定年の「壁」を取り払う理由",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfWk5aOU0tbV9jMmUzS08yb2ptV0YxbmV3YnN0VURybFE1djNYaU44b01xa081emdtaU44TGdFTWdISTQtdzgxem55dU11QU5VWjVuT2t0bkE1ZFJHT1ZtNDFB?oc=5",
-          "source": "Shionogi Inc.",
-          "date": "Wed, 04 Nov 2026 04:07:20 GMT",
-          "angle": "その他の話題"
-        },
-        {
-          "title": "50代「まだまだやれるのに」 給料はダウン、上司は年下……役職定年廃止は進むのか？（ITmedia ビジネスオンライン）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkNl9Db2Fzb2NzcmVJM3RLTl9rQVJlUjJBTjZZMDltQ1N2enFCekNlQXdrcVJyMEN3Zk85bzBTejc1MVo4NEhDVmo3QkJxYjR5WEFxVXNqcFg4WDNnOGhCdmlTOGY1V2stdkoydEd2MXk5S2xwQzNhN2tuS2wyeWM?oc=5",
-          "source": "Yahoo!ニュース",
-          "date": "Sat, 31 Oct 2026 00:00:15 GMT",
-          "angle": "その他の話題"
-        },
-        {
-          "title": "【社説】二大労総「賃下げなしの定年延長」、若者・非正規は見えぬのか",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQVZTcFgwTmtGMU82UXkxc09yOEZmYko3TG1ETE44Y1R1VXdnWXZhUW04WjZscl90SzJrM0Vyb0xXY2NPbWxidk1GcndXOGdzVTRiR0J3cmNDTHVrSi01VnQzak9wWUllU0lFSjBFWnBSOVFGTE4wal9KSWhVSVV6eQ?oc=5",
-          "source": "조선일보",
-          "date": "Fri, 30 Oct 2026 15:10:00 GMT",
-          "angle": "その他の話題"
-        }
-      ],
-      "count": 24
-    },
-    {
-      "topic": "美容整形",
-      "category": "健康",
-      "articles": [
-        {
-          "title": "なぜ現代人は「美容整形」や「筋トレ」に励むのか――「能力資本主義」を支える象徴を読み解く",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41T21hbWxTRzFvZkxrUTJmR3JHYThQU2REYmxXelpnYm9BeFUyNWFrM0NVVVYtS3doQWk1ZU5FNHEtQW00LUVJMno1S0tvMGdoQTFaTnl2YzQ?oc=5",
-          "source": "Book Bang －ブックバン",
-          "date": "Wed, 28 Oct 2026 07:00:00 GMT",
-          "angle": "その他の話題"
-        },
-        {
-          "title": "３時のヒロイン・ゆめっち〝やりすぎた〟美容整形告白「お腹の脂肪を抜いて、顔につけ直しました」（東スポWEB）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VTjRfNFFjQlZndWZSd09STmlycWNXSlhxTGx1Y3Jjd0xMSDdOaDFZY3VuWmJoZ2pXdkJnQm9haDRwMks5NjFnTVJ2a3oyRVNwbmtISFZwZjB6NTN6RUdUalBadU44RUtHOGVNdTd6YWsta1YwSC1RNkhJaW81YzA?oc=5",
-          "source": "Yahoo!ニュース",
-          "date": "Sat, 31 Oct 2026 07:00:00 GMT",
-          "angle": "体験・選択"
-        },
-        {
-          "title": "【オペ室密着】痛みやダウンタイムは？小陰唇縮小手術のリアルと、絶対に知っておくべき「失敗」のリスク",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2MnBJbHlRaFg0RlJGb3ZkLVlLTHlnUXVpZjRJTmpvdUVMT2hEb2ZfWnJnekxnczVFZUtlQmxGZG03OS12OWxkakQ1Wmw5VVF0cmtrS0Z2eWQ1cUFHLTZCLUhqNmdDT281OXB6SFNENEwzOEpIOGZGT3Ewdw?oc=5",
-          "source": "Vogue Japan",
-          "date": "Fri, 30 Oct 2026 07:00:00 GMT",
-          "angle": "安全・健康"
-        }
-      ],
-      "count": 60
-    },
-    {
-      "topic": "自動運転",
-      "category": "技術",
-      "articles": [
-        {
-          "title": "自動運転はどこまで進んでいる？【海外・日本】",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GTnFPRUxBaEtDWFpGa1hOU1VfblhBTmJ4VjBZbG1nWk5WaEN6NFhoUzh4cDNULVZuVFBSRFpuVW53QUZfMGRoUw?oc=5",
-          "source": "自動運転ラボ",
-          "date": "Mon, 26 Oct 2026 07:00:00 GMT",
-          "angle": "その他の話題"
-        },
-        {
-          "title": "コミュニティバス「くるリン」定時定路線",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wR3o4TXhYaGpTLTJUTHlWSkFiTmJnVU1FbXIySlMzdDBPcXFPZ3pKMkR3NVdyWGZwbjF3Q0YzU0hIcnFHUDhjTEdycjAycGZWanZjTjNZVTRiRW9RX2tOT2p3?oc=5",
-          "source": "深谷市",
-          "date": "Wed, 28 Oct 2026 07:00:00 GMT",
-          "angle": "その他の話題"
-        },
-        {
-          "title": "【独自】安全委が自動運転事故の原因調査 信頼高め普及促進、法改正へ",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbkd2cEVscW1fSGl3aERNcEV4WXhfaU9ERE5YbGY5d21PV1d3a1IzczFqMm11NU4tZFVyOVJFVlZrOU1hVi1Ua1NvcG82RGlYSDlIZ25hVjd0U3Y4ZnA5ZUN0Ml82d2xIdy1Ib2xSOHlFWm04cXRZcnFpbmtwblA1X0VweEI?oc=5",
-          "source": "山陽新聞",
-          "date": "Sat, 07 Nov 2026 23:48:30 GMT",
-          "angle": "その他の話題"
-        }
-      ],
-      "count": 31
-    },
-    {
-      "topic": "移民と共生",
+      "topic": "死刑制度",
       "category": "社会",
       "articles": [
         {
-          "title": "外国人労働者の上限、どうやって決まる？ 国内人材考慮も（毎日新聞）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTW9fSk9mbGtKLUFnU0xDSmo0SHFCNm1hanVKMmRpYXZrOXRXQUlNZlZRWnBTeG5fbUljR0w0bW9sakNzSEtTNjdVeUNMbC1LVFc1emM4QjM2Y2hSWmlqaEhyQmdDZzIzYlRBVmE1N21Gd29PTkhQZV9PTTdvZ1k?oc=5",
-          "source": "Yahoo!ニュース",
-          "date": "Sun, 01 Nov 2026 02:30:23 GMT",
+          "title": "米カリフォルニア州知事、州内の死刑囚548人全員を減刑へ　仮釈放なしの終身刑に",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wb1BiY2h4cEY3SDBwcFFwRFQ0U3pZY1BoWjlESk51X3lKSEU4NHVDQXdDUTN6amRkdzdxSzBfZlU5dUdrVEwxQ2xvM1pvUUZTcEpfS1NvTlY3TzBneDJWR9IBZkFVX3lxTE1KdFNxbWlNTFF6QVNKRWYyemJPOGc1TF9jNU55OGJ1MDlac293dkp5MWF6ZW90RFNPcEtsRHZLald5STVyR0ZqcmNJdUR2dGs3TEdHZ3gtREhyRU8ybkwxRmc0M1J1dw?oc=5",
+          "source": "BBC",
+          "date": "Fri, 06 Nov 2026 08:00:00 GMT",
           "angle": "その他の話題"
         },
         {
-          "title": "日本人社員と待遇を同じにすれば 外国人労働者は日本と共生できる",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0N0dhY2IxV3ZSSzJUdlcxS0pkZmNRSE1rTDlkR0VxczlsRFVvbGRWdkt6ODY1dk05VzJtczVQZk1jbmk1ZDJtd2RMRV9Za2lWa0Q0?oc=5",
-          "source": "経済界ウェブ",
-          "date": "Sun, 01 Nov 2026 20:24:12 GMT",
+          "title": "飯塚事件題材に死刑制度を考えるシンポジウム 金沢",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04V1FBQmhRN1V1U0RUSDhUQThfSEJjWlp0ZU5kay1kSFpqMTNMSVFUSVg2SlFpcW9aY0EtUlVOTTBtNEtNdjJIQmcxN21vWEJGVTRGNXpMbVEwS1FrUVJF?oc=5",
+          "source": "NHKニュース",
+          "date": "Sun, 08 Nov 2026 05:15:00 GMT",
           "angle": "その他の話題"
         },
         {
-          "title": "外国人受け入れ (2026年11月5日 No.3750)",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VREJqYUt2UlJaTWFQSi1LUFpsS241bEp6ZVA0YUxkZktpYV9BR3RHdGhXY1dIX200UFZqVDZtVXVxSGhHWmM5RTFnTURUMFZXOXZSS1ZhMVBNQ0k4d0huWS1wcV9RWU93TnlR?oc=5",
-          "source": "日本経済団体連合会",
-          "date": "Fri, 06 Nov 2026 06:02:53 GMT",
+          "title": "米カリフォルニア州知事、死刑囚全員を終身刑に減刑 執行失敗で論議再燃する中",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14anYtdFZjb2J0NE1HWUdxek5GNHJzWGYzMzVJVk01bUNlYV9pVHhCQkVXTnFsZTVMei15QVFjN1RKbVp3UVNrQnlKamVPM2lB?oc=5",
+          "source": "CNN",
+          "date": "Fri, 06 Nov 2026 08:00:00 GMT",
           "angle": "その他の話題"
         }
       ],
-      "count": 24
+      "count": 28
+    },
+    {
+      "topic": "安楽死と尊厳死",
+      "category": "健康",
+      "articles": [
+        {
+          "title": "「安楽死や尊厳死を扱った作品は、 テレビ番組を含めて必ず見るが、 こ...」京都ALS患者嘱託殺人事件 ｊｕｎｇさんの映画レビュー（感想・評価）",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ydi1yN3VPbldxblRLbVR5OC13Y0FvVHhITzAzMVBwZWNiRHBKQ2trSWJULW9EY1VaMlgxSjdBNVM5OXJoUzBPTVNMb19mUFZ0UU03OHZfY1RnQQ?oc=5",
+          "source": "映画.com",
+          "date": "Tue, 03 Nov 2026 07:28:41 GMT",
+          "angle": "その他の話題"
+        },
+        {
+          "title": "今年から透析をしないでも緩和ケアが受けれるようになって良かったと思います。自己決定権の範囲が広がって良かったと思います。安楽死制度も自己決定権ですからね。安楽死制度を考える会",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kSXJ0ZlNVTkFkNWd5VC10Wnl3WHpkbncwNkl3Y0lRdFZlZUVlU21aZHVEc0wzZ3NBOHcxNjJ5eXczMVpNblgwMGxDOEE2OG9FREJrN0ZleTg5TW9m?oc=5",
+          "source": "YouTube",
+          "date": "Tue, 10 Nov 2026 10:01:03 GMT",
+          "angle": "その他の話題"
+        },
+        {
+          "title": "「死にたい」と訴え続けた瞳の先に、誰がいたのか？『マミー』二村真弘監督の最新作『京都ALS患者嘱託殺人事件』から考える安楽死",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zRVVEdHczYTZnMzBWam5GdEdJbVZRWW9ha2FHQlI2RlNjQ1pBUVdWVUZZbXBDNlRLd0ZQNFZkVXhTSFNOc0Nic1VMRlNrUQ?oc=5",
+          "source": "www.banger.jp",
+          "date": "Sat, 14 Nov 2026 11:20:56 GMT",
+          "angle": "その他の話題"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "topic": "ネットの匿名性",
+      "category": "技術",
+      "articles": [
+        {
+          "title": "ラストマイルまでの匿名性：乗っ取られた333のTor出口ノードが暴露される",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWS1TS1h0Z0ZDUXVjTV9RNXc0WW5sQUw1ZlQ0YjdWejQ5VzVGei1Tc0c3QmdhVXZLWWNtNEZJZC1aWFpPNVlPdTBJX2ZnMnJMN0NmdUprU0tOYm5jWFQwbXNMODl0VGFvWTBkQVVyOTBta1NTMGhrR0xDNFpaZ3dCSW56Yw?oc=5",
+          "source": "IBM",
+          "date": "Mon, 02 Nov 2026 08:00:00 GMT",
+          "angle": "その他の話題"
+        },
+        {
+          "title": "匿名はなぜ人を攻撃的にするのか 池袋暴走事故の遺族を中傷、20代男性を書類送検（諸藤圭代） - エキスパート",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWl1c0ItV1Z2ODlQWFlXdkZjWGExc0NDVDBZZkNqU0NUbXJDbExuNHZYeXJvWGNqdWNmenQwMm9nTEx3TExkOHBQVTI3SXROWTltaHlZT2VKZHRTWnFfV21tQlhGcjlmTzByOWtzbGxzT2U1bnB0bUpPOGlYR0RISW5yM0ozYnlD?oc=5",
+          "source": "Yahoo!ニュース",
+          "date": "Sat, 14 Nov 2026 04:30:51 GMT",
+          "angle": "その他の話題"
+        },
+        {
+          "title": "ひろゆき氏「トップは個人情報流出で記者会見しない方がいいと証明されてしまった」　GMOの会見に私見",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sbHdGTGloY0RDVElSVmlmbk9iRWtmSXIweFhVV1loUkF3ampodXRpZ2FlZ2FVaENGME5oUzd1cGE4YktKWElZNDZKRFNLd1VYSXZQZHN6cGw4cGJaUUZLajdxc25ETkt1aHlnV1o4YWpKalhSU1HSAYoBQVVfeXFMTkxrMUpPdi1UYWcxeENEUXRlSzY2dWVSMlQ3TEx6ajZrcTRpamdqbFJ1VmxJVk53UVByYV9KNE5VTncwVG83U2tIWGY2Tm5BbEg1WWZVV0twbVdGcVlfell0QTlfb1plaDNTbG5TcVJaQWdUVnJLY3ZMZkNkeHBOTDhoay1LSkRLUk1B?oc=5",
+          "source": "サンスポ",
+          "date": "Sat, 14 Nov 2026 05:58:47 GMT",
+          "angle": "その他の話題"
+        }
+      ],
+      "count": 17
+    },
+    {
+      "topic": "現金給付と減税",
+      "category": "経済",
+      "articles": [
+        {
+          "title": "首相「考えていない」、給付の検討要求に 消費減税法案が参院で審議",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12X05rbXpKTmlNQWI4RGx3NGJhWV90bVlMaURFcEhyRmtkNkw1MmsxUlNONkZad1ZOZjBQZDZEVzMzN2tkU1AtNlpud3ZfNHdjOTl5MFNwQXJZMGcya1Jwd3RtcXpuQ3M?oc=5",
+          "source": "朝日新聞",
+          "date": "Wed, 11 Nov 2026 03:05:00 GMT",
+          "angle": "その他の話題"
+        },
+        {
+          "title": "【受付終了】新潟市食料品の物価高騰に対する支援金給付事業（3千円給付事業）",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WOWIxQ3ZoWE1pd2x4c2VhRVpxSDZyeXg3bUdCTjF4VGZINi0wU2JGRmV5bk0zQzBJUzRNQ09Oc2NxU3FhU1oyT3J4RlZLM2NZcVVNLUtLMXdDUE9CeE5JMWdhckVZaHpNcThhUk4wX29KR3c?oc=5",
+          "source": "新潟市",
+          "date": "Wed, 11 Nov 2026 08:00:00 GMT",
+          "angle": "その他の話題"
+        },
+        {
+          "title": "減税法案、給付や年金配慮に協議余地 公明党と国民民主が対策主張",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OcXE3c3ZWdUdrZDdUUlNIa000bzVwd2Z3WnpnRzR2LW11Z2pDeE9vbjRVcnUwN08xS1FSaFVFT0R5YVBVOGxNZ2I3d1dyS0l5ZHVFZXhwMzNCUHhqbnRxQkMzUlU5UDFKWEtVMw?oc=5",
+          "source": "日本経済新聞",
+          "date": "Wed, 11 Nov 2026 10:20:00 GMT",
+          "angle": "その他の話題"
+        }
+      ],
+      "count": 68
     }
   ],
   "errors": [],
-  "week_start": "2026-11-09",
-  "week_end": "2026-11-15",
+  "week_start": "2026-11-16",
+  "week_end": "2026-11-22",
   "registered_topic_count": 50,
-  "updated_at": "2026-11-09T01:09:58.658541+00:00",
+  "updated_at": "2026-11-16T01:27:28.672153+00:00",
   "notice": "50テーマから週4テーマを自動選出。記事の有無で代替する場合があります。見出しの切り口は推定であり、賛否や著者の背景は判定していません。"
 }
